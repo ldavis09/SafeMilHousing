@@ -308,6 +308,7 @@ a:hover {
     padding: 5rem;
     margin: 2rem;
 } */
+
 /*carousel
 */
 .slider {
@@ -341,7 +342,7 @@ a:hover {
 }
 
 .slider .imgContainer .image {
-    /* position: absolute; */
+    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
