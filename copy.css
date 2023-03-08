@@ -56,7 +56,7 @@ h6 {
 }
 
 #mainNav {
-    background-color: #2f170f;
+    background-color: #060a16;
     font-family: Raleway;
     border: 2px;
     border-style: outset;
@@ -417,6 +417,19 @@ a:hover {
     box-shadow: 0rem 0.0625rem 0.25rem rgba(0, 0, 0, 0.15);
 }
 
+.donate {
+        background-image: linear-gradient(45deg, #47acc8 1%, #0d1217);
+            padding: 0.5rem 1.5rem;
+            border-radius: 31.25rem;
+            color: #ffffff;
+            font-weight: 600;
+            border: none;
+            text-transform: uppercase;
+            outline: 0;
+            -webkit-box-shadow: 0rem 0.0625rem 0.25rem rgba(0, 0, 0, 0.15);
+            box-shadow: 0rem 0.0625rem 0.25rem rgba(0, 0, 0, 0.15);
+}
+
 /*carousel slide*/
 .slider .slide {
     height: 100%;
@@ -638,7 +651,7 @@ a:hover {
 }
 
 .bgimg-1 {
-    background-image: url("../img/hip dysplasia xray.png");
+    background-image: url("./img/SMHI.jpeg");
     min-height: 100%;
 }
 
